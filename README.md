@@ -18,7 +18,7 @@
 ### 4. Once it finishes you now have a Docker Machine in VirtualBox.
 
 ## Accessing the Docker Machine.
-### 1. Download the docker vm scripts and add them to your path.
+### 1. Download the docker vm scripts and [add them to your path.](https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/)
 - Run ```dvm-start``` to start the dvm.
 - Run ```dvm-restart``` to restart the dvm.
 - Run ```dvm-stop``` to stop the dvm.
@@ -27,4 +27,4 @@
 - Run ```dvm-cmd``` to open cmd with the dvm variables.
 - Run ```dvm-pshell``` to open powershell with the dvm variables.
 
-## Port Forwarding
+## [Port Forwarding](https://www.howtogeek.com/122641/how-to-forward-ports-to-a-virtual-machine-and-use-it-as-a-server/)
