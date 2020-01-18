@@ -5,8 +5,9 @@
 - https://www.virtualbox.org/wiki/Downloads
 - [Make sure to have virtualization enabled in the bios.](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)
 
-### 2. Install Docker Desktop.
+### 2. Install Docker Desktop (or just install Docker Machine).
 - https://www.docker.com/products/docker-desktop
+- https://github.com/docker/machine/releases
 - Make sure to disable Docker Desktop on startup.
 - Ignore the warning about containers and hyper-v.
 - Quit Docker Desktop from the taskbar.
